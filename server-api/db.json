@@ -1,0 +1,19 @@
+{
+  "contacts": [
+    {
+      "id": "e3031f08-55be-4ecc-8064-ec1a57660a25",
+      "name": "Dharmil Vekariya",
+      "email": "dharmil62@gmail.com"
+    },
+    {
+      "id": "e3184ef7-d8ce-4a90-b3b5-fde6d65cc163",
+      "name": "NowoChat",
+      "email": "info@nowochat.com"
+    },
+    {
+      "id": "2d19ec1e-cdda-4dca-b0a3-f90181d60107",
+      "name": "DJV",
+      "email": "djv@gmail.com"
+    }
+  ]
+}
